@@ -28,6 +28,31 @@
 6.2 The system shall allow real-time messaging and notifications for effective team communication.
 6.3 The system shall provide the ability to tag users or notify specific team members in conversations.
 
+Non-functional requirements for an online portal refer to the qualities and characteristics of the system that are not directly related to its functional behavior but are crucial for its overall performance, security, usability, and maintainability. Here are some common non-functional requirements for an online portal:
+
+1. Performance: The portal should be capable of handling a specified number of concurrent users while maintaining acceptable response times and performance levels. It should also have scalability to accommodate increased user traffic as the user base grows.
+
+2. Reliability: The portal should be highly reliable and available, ensuring minimal downtime and quick recovery in case of failures. It should have backup and disaster recovery mechanisms in place to prevent data loss and ensure business continuity.
+
+3. Security: The portal should have robust security measures in place to protect sensitive user data, prevent unauthorized access, and secure transactions. It should support encryption protocols, implement user authentication and authorization mechanisms, and follow best practices for data protection.
+
+4. Usability: The portal should be user-friendly, intuitive, and accessible to a wide range of users. It should have a responsive design that adapts to different devices and screen sizes, and it should comply with web accessibility standards to cater to users with disabilities.
+
+5. Compatibility: The portal should be compatible with various web browsers, operating systems, and devices to ensure a consistent user experience across different platforms. It should adhere to web standards and use technologies that are widely supported.
+
+6. Scalability: The portal should be designed to handle increasing user loads and growing data volumes without sacrificing performance. It should support horizontal scalability, allowing for the addition of more servers or resources to accommodate increased demand.
+
+7. Maintainability: The portal's codebase should be modular, well-structured, and documented to facilitate easy maintenance, enhancements, and bug fixes. It should follow coding standards and best practices to ensure code readability and maintainability over time.
+
+8. Integration: The portal should have the ability to integrate with external systems, such as payment gateways, customer relationship management (CRM) software, or third-party APIs. It should support data exchange and interoperability with other systems as required.
+
+9. Compliance: The portal should adhere to relevant legal, regulatory, and industry-specific compliance requirements, such as data protection laws (e.g., GDPR), privacy policies, and security standards (e.g., PCI-DSS for payment processing).
+
+10. Performance Monitoring and Analytics: The portal should have mechanisms in place to monitor its performance, collect relevant metrics, and generate reports. This data can be used to identify bottlenecks, improve system performance, and make informed decisions regarding future enhancements.
+
+These are just a few examples of non-functional requirements for an online portal. The specific requirements may vary depending on the nature of the portal, its intended users, and the business context.
+
+
 -------------------------------------------------------------------------------------------
 
 Business Entity 
